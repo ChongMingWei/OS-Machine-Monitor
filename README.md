@@ -22,4 +22,4 @@
                        i)Only one main function and a infinite loop used for questioning which function to do in it. 
             b.programming idea i)The socket is built at the same time with server's.
 
-3.exceution file Only client and server,the others are tested files.
+3.exceution file Only client and server,the others are tested files
